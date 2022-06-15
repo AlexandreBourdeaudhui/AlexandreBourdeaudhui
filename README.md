@@ -1,16 +1,16 @@
-### Hello world 👋
+## Hello ✌️
+
+Hi there ! I am Alexandre 👋
+
+### About me
+
+- 🇫🇷 Based in France
+- 📚 Currently working for the [O'clock](https://oclock.io) team
+- 👀 Looking for new opportunities
+- 📫 How to reach me: [Mail](mailto:alexandre.bourdeaudhui@gmail.com) • [LinkedIn](https://www.linkedin.com/in/alexandrebourdeaudhui/) • [Twitter](https://twitter.com/qlex_)
 
 <!--
-**AlexandreBourdeaudhui/AlexandreBourdeaudhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning…
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages & Tools
+- React, TypeScript, Redux, SASS, CSS-in-JS, Node.js, Socket.io, Jest, MongoDB, Redis, Webpack, NPM, CircleCI, GitHub Actions, Storybook, Netlify, AWS
