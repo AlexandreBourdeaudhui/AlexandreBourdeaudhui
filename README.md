@@ -1,6 +1,6 @@
-## Hello ✌️
+## Hello 👋
 
-Hi there ! I am Alexandre 👋
+Hi there ! I am Alexandre ✌️
 
 ### About me
 
