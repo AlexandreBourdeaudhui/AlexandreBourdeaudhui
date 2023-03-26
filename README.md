@@ -1,11 +1,11 @@
 ## Hello 👋
 
-Hi there ! I am Alexandre ✌️
+I am Alexandre ✌️
 
 ### About me
 
 - 🇫🇷 Based in Lille, France
-- 📚 Currently working for the [O'clock](https://oclock.io) team
+- 📚 Freelance
 - 👀 Looking for new opportunities
 - 📫 How to reach me: [Mail](mailto:alexandre.bourdeaudhui@gmail.com) • [LinkedIn](https://www.linkedin.com/in/alexandrebourdeaudhui/) • [Twitter](https://twitter.com/qlex_)
 
